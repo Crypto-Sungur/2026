@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "65875855580",
+    "project_id": "sungur2026-355b4",
+    "storage_bucket": "sungur2026-355b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65875855580:android:20613d188f4ef9feeb0c19",
+        "android_client_info": {
+          "package_name": "com.sahin.mucahit.celal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65875855580-o86etu91v3jdtepi3aneb8vd1tu5rb1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahin.mucahit.celal",
+            "certificate_hash": "9b4ec33f474f292074e278a9bfae9ea76c170843"
+          }
+        },
+        {
+          "client_id": "65875855580-9gi0sblr85b5c0kqcjhgfvneq423gua8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcVDjZwmRLRb5pqwIZ0AnngkptFDWU0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65875855580-9gi0sblr85b5c0kqcjhgfvneq423gua8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65875855580-15tecd4cl7fr36ge736jgqg2fsm4qecf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
